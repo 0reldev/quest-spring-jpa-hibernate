@@ -1,4 +1,4 @@
-# Quest 
+# Quest "Spring Data JPA 1: Hibernate"
 
 ## Educational exercise from Wild Code School
 
